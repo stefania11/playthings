@@ -15,15 +15,15 @@ twitter_username: SignificantToys
 default_img: /assets/images/souvenir-souvenir-01.png
 social:
   - name: twitter
-    url: https://twitter.com//SignificantToys
+    url: https://twitter.com/SignificantToys
   - name: instagram
-    url: https://www.instagram.com//SignificantToys
+    url: https://www.instagram.com/SignificantToys
   # - name: linkedin
   #   url: https://www.linkedin.com/in/thomasvaeth/
   - name: github
-    url: https://github.com/stefania11//SignificantToys
+    url: https://github.com/stefania11/SignificantToys
   - name: gmail
-    url: singnificant.toys@gmail.com
+    url: significant.toys@gmail.com
   # - name: codepen
   #   url: https://codepen.io/thomasvaeth/
 
