@@ -1,46 +1,52 @@
 # Site/SEO settings
-email: okay@samesies.io
+email: playthings@gmail.com
 baseurl: ""
-paginate: 12
+paginate: 5
 paginate_path: "/page/:num"
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
-name: Thomas Vaeth
-title: The Barber Theme
+name: DS & SD
+title: Significant Playthings
 description: >
-  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
-url: http://barber.samesies.io
-twitter_username: thomasvaeth
-default_img: /assets/images/seo.jpg
+  Significant Playthings is a project from Weizenbaum Institute 
+url: http://plaything.me
+twitter_username: playthings
+default_img: /assets/images/souvenir-souvenir-01.png
 social:
   - name: twitter
-    url: https://twitter.com/thomasvaeth
+    url: https://twitter.com/playthings15
   - name: instagram
-    url: https://www.instagram.com/thomas.vaeth/
-  - name: linkedin
-    url: https://www.linkedin.com/in/thomasvaeth/
+    url: https://www.instagram.com/playthings/
+  # - name: linkedin
+  #   url: https://www.linkedin.com/in/thomasvaeth/
   - name: github
-    url: https://github.com/samesies
-  - name: codepen
-    url: https://codepen.io/thomasvaeth/
+    url: https://github.com/stefania11/playthings
+  - name: gmail
+    url: singnificant.playthings@gmail.com
+  # - name: codepen
+  #   url: https://codepen.io/thomasvaeth/
 
 # Contact settings
-contact_img: /assets/images/placeholder-28.jpg
-formcarry: https://formcarry.com/s/HkIo0nMb7
+# contact_img: /assets/images/placeholder-28.jpg
+# formcarry: https://formcarry.com/s/HkIo0nMb7
 
 # Disqus settings
-disqus: test-apkdzgmqhj
+# disqus: test-apkdzgmqhj
 
 # MailChimp settings
-mailchimp_action: https://samesies.us17.list-manage.com/subscribe/post-json?u=66ddf555dab480e6a8606430b&amp;id=89b3ee034f
-mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
+# mailchimp_action: https://samesies.us17.list-manage.com/subscribe/post-json?u=66ddf555dab480e6a8606430b&amp;id=89b3ee034f
+# mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 
 # Author settings
 author:
-  - name: Thomas Vaeth
-    bio: Thomas Vaeth was born in New York, raised in Pennsylvania, and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
-    url: http://thomasvaeth.com
+  - name: Diana Serbanescu
+    bio: Diana is the director of Critical AI lab at Weizenbaum Institute and founder Replika
+    url: http://weizzenbaum.de
+  - name: Stefania Druga
+    bio: Stefania is a researcher in residence at Weizenbaum Institute 
+    url: http://drugastefania.com
+
 
 # Build settings
 markdown: kramdown
