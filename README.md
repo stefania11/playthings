@@ -1,8 +1,6 @@
 # Significant Playthings 
-Website for plaything.me using Barber template
-
-![Barber](https://raw.githubusercontent.com/samesies/barber-jekyll/master/barber.jpg "Barber")
-
+Website for plaything.me using Barber Jekyll template
+https://github.com/samesies/barber-jekyll
 ## Initial Setup
 * [Installation](#installation)
 * [Update Settings](#update-settings)
