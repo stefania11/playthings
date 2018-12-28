@@ -1,5 +1,5 @@
 # Site/SEO settings
-email: playthings@gmail.com
+email: significant@gmail.com
 baseurl: ""
 paginate: 5
 paginate_path: "/page/:num"
@@ -7,23 +7,23 @@ permalink: /:year/:month/:day/:title/
 google_analytics: 
 
 name: DS & SD
-title: Significant Playthings
+title: Significant Toys
 description: >
-  Significant Playthings is a project from Weizenbaum Institute 
+  Significant Toys is a project from Weizenbaum Institute 
 url: http://plaything.me
-twitter_username: playthings
+twitter_username: SignificantToys
 default_img: /assets/images/souvenir-souvenir-01.png
 social:
   - name: twitter
-    url: https://twitter.com/playthings15
+    url: https://twitter.com//SignificantToys
   - name: instagram
-    url: https://www.instagram.com/playthings/
+    url: https://www.instagram.com//SignificantToys
   # - name: linkedin
   #   url: https://www.linkedin.com/in/thomasvaeth/
   - name: github
-    url: https://github.com/stefania11/playthings
+    url: https://github.com/stefania11//SignificantToys
   - name: gmail
-    url: singnificant.playthings@gmail.com
+    url: singnificant.toys@gmail.com
   # - name: codepen
   #   url: https://codepen.io/thomasvaeth/
 
