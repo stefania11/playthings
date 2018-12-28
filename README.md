@@ -1,5 +1,5 @@
-# Barber
-Barber is a minimal blog theme built for Jekyll. The blog theme features a masonry grid, endless scrolling, and page transitions. 💈 Barber is also available for [Ghost](https://github.com/samesies/barber-ghost).
+# Significant Playthings 
+Website for plaything.me using Barber template
 
 ![Barber](https://raw.githubusercontent.com/samesies/barber-jekyll/master/barber.jpg "Barber")
 
@@ -206,3 +206,5 @@ Barber has been released for free. Similar themes cost around $29 on [ThemeFores
 
 ### Support
 Email <okay@samesies.io> if you need any additional support with Barber.
+# playthings-
+Repo for significant playthings website 
